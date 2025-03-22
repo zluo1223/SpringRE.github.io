@@ -10,7 +10,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
     grid: 
       sidebar-width: 300px
       body-width: 1000px
